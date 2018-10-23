@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E51553D0217F96AF00160191 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51553CF217F96AF00160191 /* ViewController.swift */; };
+		E51553D0217F96AF00160191 /* AlgorithmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51553CF217F96AF00160191 /* AlgorithmViewController.swift */; };
 		E51553D3217F96AF00160191 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51553D1217F96AF00160191 /* Main.storyboard */; };
 		E51553D5217F96B900160191 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E51553D4217F96B900160191 /* Assets.xcassets */; };
 		E51553D8217F96B900160191 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51553D6217F96B900160191 /* LaunchScreen.storyboard */; };
@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		E51553CA217F96AF00160191 /* andrew-algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "andrew-algorithm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E51553CF217F96AF00160191 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E51553CF217F96AF00160191 /* AlgorithmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmViewController.swift; sourceTree = "<group>"; };
 		E51553D2217F96AF00160191 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E51553D4217F96B900160191 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E51553D7217F96B900160191 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		E51553E3217F984200160191 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				E51553CF217F96AF00160191 /* ViewController.swift */,
+				E51553CF217F96AF00160191 /* AlgorithmViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -171,7 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E51553E2217F983400160191 /* AppDelegate.swift in Sources */,
-				E51553D0217F96AF00160191 /* ViewController.swift in Sources */,
+				E51553D0217F96AF00160191 /* AlgorithmViewController.swift in Sources */,
 				E51553E8217F98E100160191 /* algorithm-model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
