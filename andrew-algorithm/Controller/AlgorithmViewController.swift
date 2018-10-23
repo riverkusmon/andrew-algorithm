@@ -32,7 +32,7 @@ import UIKit
             let stepSix : String = "Make a model group make a file inside called name-model"
            
             let algorithm = [stepOne, stepTwo, stepThree, stepFour, stepFive, stepSix]
-            
+           // defines what to do for the algorithm
             let attributesDictionary = [NSAttributedStringKey.font : firstlabel.font]
             let fullAttributedString = NSMutableAttributedString(string: title, attributes: attributesDictionary)
             
