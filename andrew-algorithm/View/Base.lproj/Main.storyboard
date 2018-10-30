@@ -29,7 +29,7 @@
                                 </attributedString>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="PFi-Nc-auA">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="swiftSample" translatesAutoresizingMaskIntoConstraints="NO" id="PFi-Nc-auA">
                                 <rect key="frame" x="87" y="541" width="267" height="128"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="128" id="vyg-60-Xi4"/>
@@ -58,4 +58,7 @@
             <point key="canvasLocation" x="120.28985507246378" y="91.304347826086968"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="swiftSample" width="185" height="272"/>
+    </resources>
 </document>
